@@ -36,7 +36,8 @@ On the left control panel there is a button to automatically create a new Tradit
 
 On the left control panel there is a button to automatically create as many Traditional cache as possible, all with valid locations. The time allowance for each cache is 1 second. At the end, an alert box must tell how many caches have been successfully created. The graphical animation of the caches creation algorithm will be valued. 
 
-#System invariants
+System invariants:
+
 This is a list of invariants that the program must respect:
 
     A strict rule in geocaching is that two physical containers must be at least 161 meters apart. To refer to the coordinates of a physical container, sometimes we will use the terms "physical coordinates" or "physical location".
